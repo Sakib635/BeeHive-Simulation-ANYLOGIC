@@ -1,7 +1,7 @@
 # BeeHive Simulation in AnyLogic
 This project simulates the behavior of bees from various hives moving to flowers, collecting honey, and returning to the nearest hive, guided by the smell emitted from the flowers. The simulation is implemented in AnyLogic using Java and draws inspiration from principles of agent-based modeling and state transitions.
 
-## Features
+## Overview
 Simulates bee-foraging behavior using agent-based modeling.
 Bees move based on the smell intensity emitted by flowers.
 Bees dynamically select and return to the nearest hive after collecting honey.
